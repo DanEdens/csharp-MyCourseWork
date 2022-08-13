@@ -8,3 +8,5 @@ My notes for Udemy course: [C# Advanced Topics: Prepare for Technical Interview]
 > Begin Module 6 - Generics
 > Finish Module 6 - Generics
 > Begin Module 7 - Delegates
+> Finish Module 7 - Delegates
+
