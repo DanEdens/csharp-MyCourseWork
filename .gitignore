@@ -6,7 +6,6 @@
 **/*.v2
 GottMitUns/obj/**
 GottMitUns/bin/**
-*.cs
 *.cache
 *.editorconfig
 ModuleDelegates/obj/*
