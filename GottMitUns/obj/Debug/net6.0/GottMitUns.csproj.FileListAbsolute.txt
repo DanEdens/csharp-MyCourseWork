@@ -1,0 +1,15 @@
+C:\Users\Dan\lab\C#\csharp-advanced-UdemyCourse\GottMitUns\bin\Debug\net6.0\GottMitUns.exe
+C:\Users\Dan\lab\C#\csharp-advanced-UdemyCourse\GottMitUns\bin\Debug\net6.0\GottMitUns.deps.json
+C:\Users\Dan\lab\C#\csharp-advanced-UdemyCourse\GottMitUns\bin\Debug\net6.0\GottMitUns.runtimeconfig.json
+C:\Users\Dan\lab\C#\csharp-advanced-UdemyCourse\GottMitUns\bin\Debug\net6.0\GottMitUns.dll
+C:\Users\Dan\lab\C#\csharp-advanced-UdemyCourse\GottMitUns\bin\Debug\net6.0\GottMitUns.pdb
+C:\Users\Dan\lab\C#\csharp-advanced-UdemyCourse\GottMitUns\obj\Debug\net6.0\GottMitUns.csproj.AssemblyReference.cache
+C:\Users\Dan\lab\C#\csharp-advanced-UdemyCourse\GottMitUns\obj\Debug\net6.0\GottMitUns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dan\lab\C#\csharp-advanced-UdemyCourse\GottMitUns\obj\Debug\net6.0\GottMitUns.AssemblyInfoInputs.cache
+C:\Users\Dan\lab\C#\csharp-advanced-UdemyCourse\GottMitUns\obj\Debug\net6.0\GottMitUns.AssemblyInfo.cs
+C:\Users\Dan\lab\C#\csharp-advanced-UdemyCourse\GottMitUns\obj\Debug\net6.0\GottMitUns.csproj.CoreCompileInputs.cache
+C:\Users\Dan\lab\C#\csharp-advanced-UdemyCourse\GottMitUns\obj\Debug\net6.0\GottMitUns.dll
+C:\Users\Dan\lab\C#\csharp-advanced-UdemyCourse\GottMitUns\obj\Debug\net6.0\refint\GottMitUns.dll
+C:\Users\Dan\lab\C#\csharp-advanced-UdemyCourse\GottMitUns\obj\Debug\net6.0\GottMitUns.pdb
+C:\Users\Dan\lab\C#\csharp-advanced-UdemyCourse\GottMitUns\obj\Debug\net6.0\GottMitUns.genruntimeconfig.cache
+C:\Users\Dan\lab\C#\csharp-advanced-UdemyCourse\GottMitUns\obj\Debug\net6.0\ref\GottMitUns.dll
