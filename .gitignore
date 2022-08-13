@@ -1,14 +1,18 @@
 
+.vs/*
+*.editorconfig
 *.vsidx
-**/*.suo
-**/*.dll
-**/*.pdb
-**/*.v2
+*.suo
+*.dll
+*.pdb
+*.v2
+*.cache
 GottMitUns/obj/**
 GottMitUns/bin/**
-*.cache
-*.editorconfig
+GottMitUns/.vs/*
 ModuleDelegates/obj/*
 ModuleDelegates/bin/*
 ModuleDelegates/.vs/*
-.vs/*
+ModuleLamdaExp/obj/*
+ModuleLamdaExp/bin/*
+ModuleLamdaExp/.vs/*
