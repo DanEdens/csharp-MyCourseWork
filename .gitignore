@@ -4,5 +4,5 @@
 **/*.dll
 **/*.pdb
 **/*.v2
-GottMitUns/obj/*
-GottMitUns/bin/*
+GottMitUns/obj/**
+GottMitUns/bin/**
