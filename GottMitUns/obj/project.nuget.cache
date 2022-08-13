@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VaT7p38NPS4WGNcC1+L+R/g9UlUwNqAJXYjWopnyZhv5Sima9KNp6UdPTkRHaRMMo/WvjXFdM/QxxZL2nf4PnQ==",
+  "dgSpecHash": "D1OF8VeGHuuk3uUUk5HvmbntBxBjgoCWpzY5WgoX+O7sC/gk5ca1diBAmn+XjB2o4Q8EeOoRlwDuTxbLwfjbQA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dan\\lab\\C#\\csharp-advanced-UdemyCourse\\GottMitUns\\GottMitUns.csproj",
+  "projectFilePath": "C:\\Users\\Dan\\lab\\C#\\csharp-advanced-UdemyCourse\\GottMitUns\\GenericsModule.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
