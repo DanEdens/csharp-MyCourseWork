@@ -6,3 +6,9 @@
 **/*.v2
 GottMitUns/obj/**
 GottMitUns/bin/**
+*.cs
+*.cache
+*.editorconfig
+ModuleDelegates/obj/*
+ModuleDelegates/bin/*
+ModuleDelegates/.vs/*
