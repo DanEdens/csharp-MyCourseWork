@@ -1,6 +1,6 @@
 
 *.vsidx
-GottMitUns/.vs/GottMitUns/v17/.suo
-*.dll
-*.pdb
-*.v2
+**/*.suo
+**/*.dll
+**/*.pdb
+**/*.v2
