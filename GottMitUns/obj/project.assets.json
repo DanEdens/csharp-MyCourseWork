@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dan\\lab\\C#\\csharp-advanced-UdemyCourse\\GottMitUns\\GottMitUns.csproj",
-      "projectName": "GottMitUns",
-      "projectPath": "C:\\Users\\Dan\\lab\\C#\\csharp-advanced-UdemyCourse\\GottMitUns\\GottMitUns.csproj",
+      "projectUniqueName": "C:\\Users\\Dan\\lab\\C#\\csharp-advanced-UdemyCourse\\GottMitUns\\GenericsModule.csproj",
+      "projectName": "GenericsModule",
+      "projectPath": "C:\\Users\\Dan\\lab\\C#\\csharp-advanced-UdemyCourse\\GottMitUns\\GenericsModule.csproj",
       "packagesPath": "C:\\Users\\Dan\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Dan\\lab\\C#\\csharp-advanced-UdemyCourse\\GottMitUns\\obj\\",
       "projectStyle": "PackageReference",
