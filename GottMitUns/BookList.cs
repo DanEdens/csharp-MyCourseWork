@@ -14,6 +14,14 @@ namespace Generics
             get { throw new NotImplementedException(); }
         }
     }
+
+    public class GenericDictionary<Tkey, TValue>
+    {
+        public void Add(Tkey key, TValue value)
+        {
+
+        }
+    }
     public class GenericList<T>
     {
         public void Add(T value)
@@ -22,7 +30,7 @@ namespace Generics
         }
         public T this[int index]
         {
-            get { throw new NotImplementedException}
+            get { throw new NotImplementedException();  }
         }
     }
 }
