@@ -1,2 +1,10 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿namespace LamedaExpressions
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+
+        }
+    }
+}
