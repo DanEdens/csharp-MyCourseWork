@@ -12,3 +12,4 @@ GottMitUns/bin/**
 ModuleDelegates/obj/*
 ModuleDelegates/bin/*
 ModuleDelegates/.vs/*
+.vs/*
