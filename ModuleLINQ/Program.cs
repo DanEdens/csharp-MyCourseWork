@@ -10,9 +10,9 @@ namespace ModuleLINQ
         {
             var books = new BookRepository().GetBooks();
 
-            var book = books.SingleOrDefault(b => b.Title == "ASP.Net MVC++");
+            var book = books.First(b => b.Title == "C# Advanced Topics");
 
-            Console.WriteLine(book == null);
+            Console.WriteLine(book.Title + " " + book.Price);
         }
     }
 }
