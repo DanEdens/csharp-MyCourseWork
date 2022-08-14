@@ -1,21 +1,25 @@
-﻿namespace LamedaExpressions
+﻿using System;
+
+namespace LamedaExpressions
 {
     class Program
     {
         static void Main(string[] args)
         {
-            // args => expression 
-            // args goes to expression
+            var books = new BookRepository().GetBooks();
+            
+            var cheapBooks = books.FindAll(IsCheaperThan10Dollars);
 
-            //number => number * number;
-            // () => ...
-            // x = > ...
-            // (x,y,z) => ...
-            const int factor = 5;
-            Func<int, int> multipler = n => n*factor;
+            foreach (var book in cheapBooks)
+            {
+                Console.WriteLine(book.Title);
+            }
 
-            var result = multipler(10);
-            Console.WriteLine( result);
+        }
+
+        static bool IsCheaperThan10Dollars(Book book)
+        {
+            return book.Price < 10;
         }
    }
 }
