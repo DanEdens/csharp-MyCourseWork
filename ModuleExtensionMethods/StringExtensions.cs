@@ -13,7 +13,7 @@
             if (words.Length <= numberofwords)
                 return str;
 
-            return string.Join(" ",words.Take(numberofwords));
+            return string.Join(" ",words.Take(numberofwords)) + "...";
         
         }
     }
