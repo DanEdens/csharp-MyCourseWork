@@ -16,4 +16,25 @@ My notes for Udemy course: [C# Advanced Topics: Prepare for Technical Interview]
 > Begin Module 9 - Events  
 > Finsih Module 9 - Events  
 > Begin Module 10 - Extenshion Methods  
+> Finish Module 10 - Extenshion Methods  
+> Begin Module 11 - LINQ  
+> Finish Module 11 - LINQ  
+> Begin Module 12 - NullableTypes
+
+
+
+
+<!-- > Finish Module 12 - NullableTypes -->
+<!-- > Begin Module 13 - NullableTypes -->
+<!-- > Begin Module 13 - Dynamic -->
+<!-- > Finish Module 13 - Dynamic -->
+<!-- > Begin Module 14 - Exception Handling -->
+<!-- > Finish Module 14 - Exception Handling -->
+<!-- > Begin Module 15 - Async-Await -->
+<!-- > Finish Module 15 - Async-Await -->
+<!-- Quiz 2 -->
+<!-- > Begin Module 16 - Source Code -->
+<!-- > Finish Module 16 - Source Code -->
+<!-- > Begin Module 17 - What's New in C# 6 -->
+<!-- > Finish Module 17 - What's New in C# 6 -->
 
