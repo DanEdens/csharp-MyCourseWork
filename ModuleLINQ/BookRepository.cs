@@ -4,7 +4,7 @@
     {
         public IEnumerable<Book> GetBooks()
         {
-            return new List<Book>();
+            return new List<Book>
             {
                 new Book() { Title = "ADO.Net Step by Step", Price = 5 },
                 new Book() { Title = "ASP.Net MVC", Price = 9.99f },
