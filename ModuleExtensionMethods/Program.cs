@@ -4,12 +4,9 @@
     {
         static void Main(string[] args)
         {
-            string post = "This is supposed to be a very long blog post..."
+            string post = "This is supposed to be a very long blog post...";
+            var ShortendPost = post.Shorten(5);
             
         }
-    }
-    public class RichString : String
-    {
-
     }
 }
