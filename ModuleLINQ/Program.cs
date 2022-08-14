@@ -10,7 +10,7 @@ namespace ModuleLINQ
         {
             var books = new BookRepository().GetBooks();
 
-            var count = books.Count();    
+            var count = books.Max(b => b.Price);    
             
             Console.WriteLine(count);
             
