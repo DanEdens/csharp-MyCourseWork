@@ -14,5 +14,6 @@ My notes for Udemy course: [C# Advanced Topics: Prepare for Technical Interview]
 
 ## 8/14/22
 > Begin Module 9 - Events  
+> Finsih Module 9 - Events  
 
 
