@@ -4,12 +4,13 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(Square(5));
-        }
+            // args => expression 
+            // args goes to expression
 
-        static int Square(int number)
-        {
-            return number*number;
+            //number => number * number;
+            Func<int, int> square = number => number*number;
+
+            Console.WriteLine(square(5));
         }
-    }
+   }
 }
