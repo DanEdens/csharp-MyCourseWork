@@ -8,5 +8,8 @@
             
         }
     }
-    
+    public class RichString : String
+    {
+
+    }
 }
