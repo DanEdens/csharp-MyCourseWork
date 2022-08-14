@@ -10,9 +10,12 @@ namespace ModuleLINQ
         {
             var books = new BookRepository().GetBooks();
 
-            var book = books.lastOrDefault(b => b.Title == "C# Advanced Topics");
+            var pagedBooks = books.Skip(2).Take(3);
 
-            Console.WriteLine(book.Title + " " + book.Price);
+            foreach (var pagedBook in pagedBooks)
+            { 
+                Console.WriteLine(pagedBook.Title);
+            }
         }
     }
 }
