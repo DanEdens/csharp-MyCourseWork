@@ -5,8 +5,14 @@ My notes for Udemy course: [C# Advanced Topics: Prepare for Technical Interview]
 > Learned to init project in visual studio, and took microsoft learning center class for missing vocab  
 
 ## 8/13/22
-> Begin Module 6 - Generics
-> Finish Module 6 - Generics
-> Begin Module 7 - Delegates
-> Finish Module 7 - Delegates
+> Begin Module 6 - Generics  
+> Finish Module 6 - Generics  
+> Begin Module 7 - Delegates  
+> Finish Module 7 - Delegates  
+> Begin Module 8 - lamda  
+> Finish Module 8 - Lamda  
+
+## 8/14/22
+> Begin Module 9 - Events  
+
 
