@@ -4,7 +4,7 @@
     {
         public void onVideoEncoded(object source, EventArgs e)
         {
-            Console.WriteLine("MailSerice: Sending an emial...");
+            Console.WriteLine("MailSerice: Sending an email...");
         }
     }
 }
