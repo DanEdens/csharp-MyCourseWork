@@ -13,12 +13,13 @@ namespace ModuleEvents
         // 2- define an event
         // 3- Raise the event
 
-        public delegate void VideoEncodedEventHandler(object source, VideoEventArgs args);
 
         // EventHandler 
         // EventHandler<TEventArgs>
         
         public event EventHandler<VideoEventArgs> VideoEncoded;
+        public event EventHandler VideoEncoding;
+
         public void Encode(Video video)
         {
             Console.WriteLine("Encoding Video...");
