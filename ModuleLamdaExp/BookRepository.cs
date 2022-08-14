@@ -1,4 +1,6 @@
-﻿namespace LamedaExpressions
+﻿using System.Collections.Generic;
+
+namespace LamedaExpressions
 {
     public class BookRepository
     { 
