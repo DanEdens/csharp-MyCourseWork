@@ -8,15 +8,9 @@
             var videoEncoder = new VideoEncoder(); //publisher
             var mailService = new MailService(); //subscriber
 
-            videoEncoder.Encode(video);
-        }
-    }
+            videoEncoder.VideoEncoded += mailService.onVideoEncoded;
 
-    public class MailService
-    {
-        public void onVideoEncoded(object source, EventArgs e)
-        {
-            Console.WriteLine("MailSerice: Sending an emial...");
+            videoEncoder.Encode(video);
         }
     }
 }

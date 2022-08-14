@@ -16,6 +16,8 @@ namespace ModuleEvents
         {
             Console.WriteLine("Encoding Video...");
             Thread.Sleep(1000);
+            
+            OnVideoEncdoed();
         }
 
         protected virtual void OnVideoEncdoed()
