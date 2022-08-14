@@ -3,13 +3,17 @@ using System.Threading;
 
 namespace ModuleEvents
 { 
+    public class VideoEventArgs : EventArgs
+    {
+        public Video Video { get; set; }
+    }
     public class VideoEncoder
     {
         // 1- define a delegate
         // 2- define an event
         // 3- Raise the event
 
-        public delegate void VideoEncodedEventHandler(object source, EventArgs args);
+        public delegate void VideoEncodedEventHandler(object source, VideoEventArgs args);
         
         public event VideoEncodedEventHandler VideoEncoded;
         public void Encode(Video video)
@@ -17,13 +21,14 @@ namespace ModuleEvents
             Console.WriteLine("Encoding Video...");
             Thread.Sleep(1000);
             
-            OnVideoEncdoed();
+            OnVideoEncdoed(video);
         }
 
-        protected virtual void OnVideoEncdoed()
-        {
+        
+        protected virtual void OnVideoEncdoed(Video video)
+    {
             if (VideoEncoded != null)
-                VideoEncoded(this, EventArgs.Empty);
+                VideoEncoded(this, new VideoEventArgs() {  Video = video });
         }
     }
 }

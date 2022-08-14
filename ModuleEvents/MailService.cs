@@ -2,9 +2,9 @@
 {
     public class MailService
     {
-        public void onVideoEncoded(object source, EventArgs e)
+        public void onVideoEncoded(object source, VideoEventArgs e)
         {
-            Console.WriteLine("MailSerice: Sending an email...");
+            Console.WriteLine("MailSerice: Sending an email..." + e.Video.Title);
         }
     }
 }
