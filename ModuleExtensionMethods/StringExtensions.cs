@@ -1,13 +1,18 @@
-﻿namespace ModuleExtensionMethods
+﻿using System;
+using System.Linq;
+
+namespace System
 {
-    public static class StringExtensions
+    public static class StringExtensions 
     {
         public static string Shorten(this String str, int numberofwords)
         {
             if (numberofwords <= 0)
                 throw new ArgumentOutOfRangeException("numberOfWords should be greater than or equal to 0.");
+            
             if (numberofwords == 0)
                 return "";
+
             var words = str.Split(' ');
 
             if (words.Length <= numberofwords)
