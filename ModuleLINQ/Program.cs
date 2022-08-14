@@ -10,11 +10,11 @@ namespace ModuleLINQ
         {
             var books = new BookRepository().GetBooks();
 
-            var maxPrice = books.Max(b => b.Price);    
-            var minPrice = books.Min(b => b.Price);
+            var totalPrice = books.Sum(b => b.Price);    
+            
 
-            Console.WriteLine(maxPrice);
-            Console.WriteLine(minPrice);
+            Console.WriteLine(totalPrice);
+            
 
         }
     }
