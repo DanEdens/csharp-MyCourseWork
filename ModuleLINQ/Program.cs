@@ -10,7 +10,7 @@ namespace ModuleLINQ
         {
             var books = new BookRepository().GetBooks();
 
-            var book = books.First(b => b.Title == "C# Advanced Topics");
+            var book = books.FirstOrDefault(b => b.Title == "C# Advanced Topics");
 
             Console.WriteLine(book.Title + " " + book.Price);
         }
