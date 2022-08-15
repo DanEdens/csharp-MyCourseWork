@@ -7,14 +7,9 @@ namespace ModuleNullableTypes
         static void Main(string[] args)
         {
             DateTime? date = null;
-            DateTime date2;
+            DateTime date2 = date ?? DateTime.Today;
 
-            if (date != null)
-                date2 = date.GetValueOrDefault();
-            else
-                date2 = DateTime.Today;
-
-            Console.WriteLine(date2);
+            
         }
     }
 }
