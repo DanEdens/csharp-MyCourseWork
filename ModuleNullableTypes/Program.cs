@@ -9,7 +9,7 @@ namespace ModuleNullableTypes
             DateTime? date = null;
             DateTime date2 = date ?? DateTime.Today;
 
-            
+            DateTime date3 = (date != null) ? date.GetValueOrDefault() : DateTime.Today;
         }
     }
 }
