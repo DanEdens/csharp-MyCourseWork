@@ -6,7 +6,11 @@ namespace ModuleNullableTypes
     {
         static void Main(string[] args)
         {
-            DateTime date = null;
+            DateTime? date = null;
+
+            Console.WriteLine("GetValueOrDefault(): " + date.GetValueOrDefault());
+            Console.WriteLine("HasValue: " + date.HasValue);
+            Console.WriteLine("" + date.Value);
         }
     }
 }
