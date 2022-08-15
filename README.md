@@ -1,5 +1,4 @@
-# csharp-advanced-UdemyCourse
-My notes for Udemy course: [C# Advanced Topics: Prepare for Technical Interview](https://www.udemy.com/course/csharp-advanced/learn/lecture/1988790#questions/13997196)
+
 
 ## Init course - 8/12/22
 > Learned to init project in visual studio, and took microsoft learning center class for missing vocab  
@@ -24,12 +23,15 @@ My notes for Udemy course: [C# Advanced Topics: Prepare for Technical Interview]
 > Begin Module 13 - Dynamic
 > Finish Module 13 - Dynamic -->
 > Begin Module 14 - Exception Handling
-<!-- > Finish Module 14 - Exception Handling -->
-<!-- > Begin Module 15 - Async-Await -->
-<!-- > Finish Module 15 - Async-Await -->
-<!-- Quiz 2 -->
-<!-- > Begin Module 16 - Source Code -->
-<!-- > Finish Module 16 - Source Code -->
-<!-- > Begin Module 17 - What's New in C# 6 -->
-<!-- > Finish Module 17 - What's New in C# 6 -->
+> Finish Module 14 - Exception Handling
+> Begin Module 15 - Async-Await
+> Finish Module 15 - Async-Await
+
+## 8/16/22
+> Quiz 2
+> Begin Module 16 - Source Code
+> Finish Module 16 - Source Code
+> Begin Module 17 - What's New in C# 6
+> Finish Module 17 - What's New in C# 6
+
 
