@@ -22,8 +22,8 @@ My notes for Udemy course: [C# Advanced Topics: Prepare for Technical Interview]
 > Begin Module 12 - NullableTypes
 > Finish Module 12 - NullableTypes
 > Begin Module 13 - Dynamic
-<!-- > Finish Module 13 - Dynamic -->
-<!-- > Begin Module 14 - Exception Handling -->
+> Finish Module 13 - Dynamic -->
+> Begin Module 14 - Exception Handling
 <!-- > Finish Module 14 - Exception Handling -->
 <!-- > Begin Module 15 - Async-Await -->
 <!-- > Finish Module 15 - Async-Await -->
