@@ -20,11 +20,11 @@ My notes for Udemy course: [C# Advanced Topics: Prepare for Technical Interview]
 > Begin Module 11 - LINQ  
 > Finish Module 11 - LINQ  
 > Begin Module 12 - NullableTypes
+> Finish Module 12 - NullableTypes
 
 
 
 
-<!-- > Finish Module 12 - NullableTypes -->
 <!-- > Begin Module 13 - NullableTypes -->
 <!-- > Begin Module 13 - Dynamic -->
 <!-- > Finish Module 13 - Dynamic -->
