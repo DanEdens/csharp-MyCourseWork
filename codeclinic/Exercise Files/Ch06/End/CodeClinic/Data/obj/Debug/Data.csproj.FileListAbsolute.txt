@@ -1,0 +1,6 @@
+D:\Exercise Files\Ch06\End\CodeClinic\Data\bin\Debug\Data.dll
+D:\Exercise Files\Ch06\End\CodeClinic\Data\bin\Debug\Data.pdb
+D:\Exercise Files\Ch06\End\CodeClinic\Data\obj\Debug\Data.csprojAssemblyReference.cache
+D:\Exercise Files\Ch06\End\CodeClinic\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+D:\Exercise Files\Ch06\End\CodeClinic\Data\obj\Debug\Data.dll
+D:\Exercise Files\Ch06\End\CodeClinic\Data\obj\Debug\Data.pdb

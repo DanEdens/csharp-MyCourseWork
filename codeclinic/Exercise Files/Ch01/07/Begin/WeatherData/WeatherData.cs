@@ -1,0 +1,40 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Diagnostics;
+using System.IO;
+using System.Linq;
+
+namespace Weather
+{
+    public class WeatherData
+    {
+        public static IEnumerable<WeatherObservation> ReadRange(
+            TextReader text,
+            DateTime? start = null,
+            DateTime? end = null,
+            Action<string> errorHandler = null)
+        {
+            throw new NotImplementedException();
+        }
+
+        public static IEnumerable<WeatherObservation> ReadAll(TextReader text, Action<string> errorHandler = null)
+        {
+            string line = null;
+            while ((line = text.ReadLine()) != null)
+            {
+                if (WeatherObservation.TryParse(line, out WeatherObservation wo))
+                {
+                    yield return wo;
+                }
+                else
+                {
+                    try
+                    {
+                        errorHandler?.Invoke(line);
+                    }
+                    catch { }
+                }
+            }
+        }
+    }
+}

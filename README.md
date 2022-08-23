@@ -35,3 +35,7 @@
 > Finish Module 17 - What's New in C# 6
 
 
+## 8/22/22
+> Begin new course Code clinic: C#
+
+
