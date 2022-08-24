@@ -17,6 +17,7 @@ namespace Algorithms {
                 result.Add(num);
                 }
 
+            return (int[])result.ToArray(typeof(int));
         }
 
         static void Main(string[] args) {
@@ -24,6 +25,7 @@ namespace Algorithms {
             int[] arr2 = {0, -2, -9, -39, 39, 10, 7};
 
             int[] evenArr = FindEvenNums(arr1, arr2);
+            Array.ForEach(evenArr, Console.WriteLine);
         }
     }
 }
