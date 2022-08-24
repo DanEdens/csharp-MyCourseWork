@@ -3,7 +3,12 @@
 namespace Algorithms {
     class Program {
         static int[] Reverse(int[] input) {
-            return input;
+            int[] reversed = new(input.Length);
+
+            for (int i = 0; reversed.Length; i++) {
+                reversed[i] = input[input.Length - i -1];
+            }
+            return reversed
         }
 
         static void Main(string[] args) {
