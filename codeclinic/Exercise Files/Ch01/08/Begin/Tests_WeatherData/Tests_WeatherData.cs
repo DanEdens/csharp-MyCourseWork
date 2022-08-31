@@ -89,7 +89,7 @@ namespace Tests_WeatherData
         }
 
         [TestMethod]
-        public void Test_060_FitLineToFilteredSampleFile()
+        public void Test_060_Fit LineToFilteredSampleFile()
         {
             var start = DateTime.Parse("2012-01-02 00:00:00");
             var end = DateTime.Parse("2012-01-02 17:00:00");
@@ -102,7 +102,13 @@ namespace Tests_WeatherData
                 // Transform
                 // Load
 
-                // MathNet.Numerics.Fit.Line(...);
+                var data = from wo in WeatherData.ReadRange(text, start, end)
+                           select new
+                           {
+                               Hours = (wo.TimeStamp - start).TotalHours,
+                               wo.Barometric_Pressure
+                           };
+                //MathNet.Numerics.Fit.Line();
 
                 throw new NotImplementedException();
             }
