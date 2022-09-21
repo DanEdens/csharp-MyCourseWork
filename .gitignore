@@ -10,3 +10,6 @@
 */obj/*
 */bin/*
 */.vs/*
+
+*.zip
+Ex_Files_ASP_NET_Core_Payment/*
