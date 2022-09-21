@@ -1,0 +1,6 @@
+C:\Users\Dan\lab\C#\csharp-MyCourseWork\codeclinic\Exercise Files\Ch01\04\Begin\WeatherData\bin\Debug\WeatherData.dll
+C:\Users\Dan\lab\C#\csharp-MyCourseWork\codeclinic\Exercise Files\Ch01\04\Begin\WeatherData\bin\Debug\WeatherData.pdb
+C:\Users\Dan\lab\C#\csharp-MyCourseWork\codeclinic\Exercise Files\Ch01\04\Begin\WeatherData\obj\Debug\WeatherData.csproj.AssemblyReference.cache
+C:\Users\Dan\lab\C#\csharp-MyCourseWork\codeclinic\Exercise Files\Ch01\04\Begin\WeatherData\obj\Debug\WeatherData.csproj.CoreCompileInputs.cache
+C:\Users\Dan\lab\C#\csharp-MyCourseWork\codeclinic\Exercise Files\Ch01\04\Begin\WeatherData\obj\Debug\WeatherData.dll
+C:\Users\Dan\lab\C#\csharp-MyCourseWork\codeclinic\Exercise Files\Ch01\04\Begin\WeatherData\obj\Debug\WeatherData.pdb

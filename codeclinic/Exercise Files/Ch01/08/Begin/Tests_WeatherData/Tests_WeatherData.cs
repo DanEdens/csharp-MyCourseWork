@@ -108,6 +108,9 @@ namespace Tests_WeatherData
                                Hours = (wo.TimeStamp - start).TotalHours,
                                wo.Barometric_Pressure
                            };
+
+                var arrX -new List<double>();
+                var arrY -new List<double>();
                 //MathNet.Numerics.Fit.Line();
 
                 throw new NotImplementedException();
