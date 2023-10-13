@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HPlusSportTDD.Core.Tests", "HPlusSportTDD.Core.Tests\HPlusSportTDD.Core.Tests.csproj", "{303786B1-E366-460D-BD5D-D1227C2509FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{303786B1-E366-460D-BD5D-D1227C2509FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{303786B1-E366-460D-BD5D-D1227C2509FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{303786B1-E366-460D-BD5D-D1227C2509FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{303786B1-E366-460D-BD5D-D1227C2509FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89143C9F-485C-4673-90CB-8A1E6265E3B8}
+	EndGlobalSection
+EndGlobal

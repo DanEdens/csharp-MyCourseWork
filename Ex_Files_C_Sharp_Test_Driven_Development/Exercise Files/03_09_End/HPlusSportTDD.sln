@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HPlusSportTDD.Core.Tests", "HPlusSportTDD.Core.Tests\HPlusSportTDD.Core.Tests.csproj", "{303786B1-E366-460D-BD5D-D1227C2509FB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HPlusSportTDD.Core", "HPlusSportTDD.Core\HPlusSportTDD.Core.csproj", "{37F2904A-C37A-44CB-889E-25935D9506ED}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HPlusSportTDD.Web", "HPlusSportTDD.Web\HPlusSportTDD.Web.csproj", "{FEFC2BE4-660C-4993-80F0-DD6BE27520CC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HPlusSportTDD.Web.Tests", "HPlusSportTDD.Web.Tests\HPlusSportTDD.Web.Tests.csproj", "{25CD1718-6113-4636-BAE6-58A571180480}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HPlusSportTDD.API", "HPlusSportTDD.API\HPlusSportTDD.API.csproj", "{62D7710E-8EA9-4AE8-8DAB-C7923BE3F397}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{303786B1-E366-460D-BD5D-D1227C2509FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{303786B1-E366-460D-BD5D-D1227C2509FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{303786B1-E366-460D-BD5D-D1227C2509FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{303786B1-E366-460D-BD5D-D1227C2509FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37F2904A-C37A-44CB-889E-25935D9506ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37F2904A-C37A-44CB-889E-25935D9506ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37F2904A-C37A-44CB-889E-25935D9506ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37F2904A-C37A-44CB-889E-25935D9506ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEFC2BE4-660C-4993-80F0-DD6BE27520CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEFC2BE4-660C-4993-80F0-DD6BE27520CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEFC2BE4-660C-4993-80F0-DD6BE27520CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEFC2BE4-660C-4993-80F0-DD6BE27520CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25CD1718-6113-4636-BAE6-58A571180480}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25CD1718-6113-4636-BAE6-58A571180480}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25CD1718-6113-4636-BAE6-58A571180480}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25CD1718-6113-4636-BAE6-58A571180480}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62D7710E-8EA9-4AE8-8DAB-C7923BE3F397}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62D7710E-8EA9-4AE8-8DAB-C7923BE3F397}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62D7710E-8EA9-4AE8-8DAB-C7923BE3F397}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62D7710E-8EA9-4AE8-8DAB-C7923BE3F397}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89143C9F-485C-4673-90CB-8A1E6265E3B8}
+	EndGlobalSection
+EndGlobal
